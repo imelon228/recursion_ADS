@@ -1,7 +1,9 @@
 # recursion_ADS
 Yeskendirov Aidyn IT-2504 
 
-Assignment1
+!!! THE FOLLOWING CODES FOR THE TASKS ARE IN THE MASTER BRANCH !!!
+
+Assignment1 
 
 task 1: 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/0e64dd17-5668-4f80-ba8b-e65ec503f50a" />
