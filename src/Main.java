@@ -8,14 +8,12 @@ class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        int num = scanner.nextInt();
-        int[] arr = new int[num];
-        for(int i = 0; i < num; i++){
-            arr[i] = scanner.nextInt();
+        int number = scanner.nextInt();
+        if(task3.isPrime(number,2) == true){
+            System.out.println("Prime");
+        } else{
+            System.out.println("Composite");
         }
-
-        float avg = (float) find_sum(arr, 0) / num;
-        System.out.println(avg);
         scanner.close();
     }
 }
