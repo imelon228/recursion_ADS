@@ -15,5 +15,6 @@ class Main {
         System.out.println(task10.gcd(num1, num2));
 
         scanner.close();
+
     }
 }
