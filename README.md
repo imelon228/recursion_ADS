@@ -7,6 +7,7 @@ task 2:
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/b23ada5b-cdff-496b-8dc2-7d2f1d7b0503" />
 
 task 3:
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/61ef7d1b-7b1d-440e-b6db-30e22e801605" />
 
 task 4:
 <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/0ad48e97-f395-401a-9dda-e0b63b6ff61f" />
