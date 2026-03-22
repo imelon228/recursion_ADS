@@ -19,10 +19,13 @@ task 6:
 <img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/90e45eec-9e42-47c0-a922-62a6b71123d5" />
 
 task 7:
+<img width="1919" height="1022" alt="Снимок экрана 2026-03-22 175656" src="https://github.com/user-attachments/assets/00ef524d-f1c1-4581-a579-65f673ac9beb" />
 
 task 8:
+<img width="1919" height="1024" alt="image" src="https://github.com/user-attachments/assets/b04c4e4b-f536-4ee4-a629-b6365135f455" />
 
 task 9:
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/21bee4ce-8eea-40fa-9785-c54e6bc21253" />
 
 task 10:
 
