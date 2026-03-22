@@ -1,5 +1,8 @@
 # recursion_ADS
-Yeskendirov Aidyn IT-2504 Assignment1
+Yeskendirov Aidyn IT-2504 
+
+Assignment1
+
 task 1: 
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/0e64dd17-5668-4f80-ba8b-e65ec503f50a" />
 
@@ -28,4 +31,6 @@ task 9:
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/21bee4ce-8eea-40fa-9785-c54e6bc21253" />
 
 task 10:
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/9e406ead-f71a-4f42-9d71-af80022b020b" />
 
+I have done recursion tasks on Java, didn`t use any loops except for several input cases.
