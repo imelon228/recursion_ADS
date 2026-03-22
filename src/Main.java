@@ -8,12 +8,12 @@ class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        int number = scanner.nextInt();
-        if(task3.isPrime(number,2) == true){
-            System.out.println("Prime");
-        } else{
-            System.out.println("Composite");
-        }
+
+        int num1 = scanner.nextInt();
+        int num2 = scanner.nextInt();
+
+        System.out.println(task10.gcd(num1, num2));
+
         scanner.close();
     }
 }
